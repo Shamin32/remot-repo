@@ -1,0 +1,91 @@
+/* common shared styles*/
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.section-titel{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500px;
+
+    .section-desciption{
+        text-align: center;
+        font-size: 18px;
+
+    }
+}
+.tex-primary{
+    color: chocolate;
+}
+.btn-primary{
+    border-radius: 5px;
+    background-color: hotpink;
+
+}
+.btn-primary{
+    border-radius: 5px;
+    background-color: deeppink;
+}
+
+/*header related styles */
+.header{
+    display: flex;
+    background-color: oldlace;
+}
+.banner{
+    padding: 30px 60px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner.profile-pic{
+    width: 300px;
+}
+.banner-greeting{
+    font-size: 45px;
+    margin-bottom: 0;
+
+}
+.banner-titel{
+    font-size: 85px;
+    font-size: 700px;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+
+/* main section styels */
+.section-desciption{
+    display: flex;
+}
+
+
+
+/* our section styels */
+
+.about{
+    display: flex;
+    padding: 130px;
+    border-radius: 10px;
+    margin: 150px 0;
+}
+.about-info{
+    display: flex;
+}
+
+/* skills related styles */
+#what-i-do-description{
+    padding: 15px 150px;
+}
+.skill-conteinar{
+    display: flex;
+    gap: 24px;
+}
+
+
+
+.skills-description{
+    padding: 30px;
+}
+
+
+
+
